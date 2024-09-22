@@ -1,7 +1,7 @@
 ##  “30년이 지나도 좋은 추억으로 기억되는 가치 있는 프로그램을 만들자“ 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codnjs444&show_icons=true&theme=dark" alt="Your GitHub stats" width="48%" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codnjs444&layout=compact&theme=dark" alt="Top Langs" width="48%" height="199"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codnjs444&layout=compact&theme=dark" alt="Top Langs" width="48%" height="180"/>
 </p>
 
 ## 🛠 Skills & Tools
