@@ -2,6 +2,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=codnjs444&show_icons=true&theme=dark" alt="Your GitHub stats" width="48%" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codnjs444&layout=compact&theme=dark" alt="Top Langs" width="48%" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codnjs444&show_icons=true&theme=dark" alt="GitHub Stats" />
+
 </p>
 
 ## 🛠 Skills & Tools
